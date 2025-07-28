@@ -67,8 +67,8 @@ Students need a centralized, intelligent platform that not only stores their lea
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/studyspark.git
-cd studyspark
+git clone https://github.com/yourusername/NoteMind.git
+cd NoteMind
 ````
 
 ### 2. Install dependencies
